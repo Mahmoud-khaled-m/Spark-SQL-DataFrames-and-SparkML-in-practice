@@ -1,5 +1,5 @@
 # SparkSQL, DataFrames, and SparkML in practice
-This repository showcases practical examples and projects using Apache Spark's SQL, DataFramem and SparkML APIs. It demonstrates various data processing, analysis, and transformation techniques using PySpark.
+This repository showcases practical examples and projects using Apache Spark's SQL, DataFrames and SparkML APIs. It demonstrates various data processing, analysis, and transformation techniques using PySpark.
 
 ## Overview
 
