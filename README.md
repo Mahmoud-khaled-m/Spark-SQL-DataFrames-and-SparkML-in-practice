@@ -22,7 +22,7 @@ These projects were created to gain hands-on experience with Spark, focusing on:
 
 ## SparkML:
   ### Practice Project:
-    In this project you will create an end-to-end solution using machine learning pipelines for regression. Your objective is to clean the dataset, create a model that predicts the SoundLevel based on the other columns, evaluate its performance, and persist the model for future use.
+  In this project you will create an end-to-end solution using machine learning pipelines for regression. Your objective is to clean the dataset, create a model that predicts the SoundLevel based on the other columns, evaluate its performance, and persist the model for future use.
 
   #### This project has four parts, each building on the previous one. 
 
